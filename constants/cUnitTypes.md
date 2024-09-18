@@ -3,7 +3,7 @@
 ## Greek
 
 | cUnitType | Value |
-| -- | -- |
+| -- | --: |
 | cUnitTypeVillagerGreek | 51 |
 | cUnitTypeFishingShipGreek | 96 |
 | cUnitTypeTransportShipGreek | 97 |
@@ -49,39 +49,39 @@
 ## Egyptian
 
 | cUnitType | Value |
-| -- | -- |
-| cUnitTypeVillagerEgyptian |  |
-| cUnitTypeFishingShipEgyptian |  |
-| cUnitTypeTransportShipEgyptian |  |
-| cUnitTypeCaravanEgyptian |  |
-| cUnitTypePharaoh |  |
-| cUnitTypeMigdolStronghold |  |
-| cUnitTypeTitanBird |  |
-| cUnitTypeKebenit |  |
-| cUnitTypeRammingGalley |  |
-| cUnitTypeWarBarge |  |
-| cUnitTypeSphinx |  |
-| cUnitTypeSlinger |  |
-| cUnitTypeAxeman |  |
-| cUnitTypeSpearman |  |
-| cUnitTypeWadjet |  |
-| cUnitTypeAnubite |  |
-| cUnitTypePetsuchos |  |
-| cUnitTypeScarab |  |
-| cUnitTypeScorpionMan |  |
-| cUnitTypeMummy |  |
-| cUnitTypeAvenger |  |
-| cUnitTypePhoenix |  |
-| cUnitTypeChariotArcher |  |
-| cUnitTypeCamelRider |  |
-| cUnitTypeWarElephant |  |
-| cUnitTypeSiegeTower |  |
-| cUnitTypeMonumentToVillagers |  |
-| cUnitTypeMonumentToSoldiers |  |
-| cUnitTypeMonumentToPriests |  |
-| cUnitTypePriest |  |
-| cUnitTypeBaboonOfSet |  |
-| cUnitTypeCitadelCenter |  |
+| -- | --: |
+| cUnitTypeVillagerEgyptian | 105 |
+| cUnitTypeFishingShipEgyptian | 165 |
+| cUnitTypeTransportShipEgyptian | 166 |
+| cUnitTypeCaravanEgyptian | 106 |
+| cUnitTypePharaoh | 142 |
+| cUnitTypeMigdolStronghold | 338 |
+| cUnitTypeTitanBird | 164 |
+| cUnitTypeKebenit | 167 |
+| cUnitTypeRammingGalley | 168 |
+| cUnitTypeWarBarge | 169 |
+| cUnitTypeSphinx | 145 |
+| cUnitTypeSlinger | 110 |
+| cUnitTypeAxeman | 109 |
+| cUnitTypeSpearman | 108 |
+| cUnitTypeWadjet | 146 |
+| cUnitTypeAnubite | 147 |
+| cUnitTypePetsuchos | 150 |
+| cUnitTypeScarab | 153 |
+| cUnitTypeScorpionMan | 154 |
+| cUnitTypeMummy | 158 |
+| cUnitTypeAvenger | 162 |
+| cUnitTypePhoenix | 159 |
+| cUnitTypeChariotArcher | 112 |
+| cUnitTypeCamelRider | 113 |
+| cUnitTypeWarElephant | 114 |
+| cUnitTypeSiegeTower | 139 |
+| cUnitTypeMonumentToVillagers | 330 |
+| cUnitTypeMonumentToSoldiers | 331 |
+| cUnitTypeMonumentToPriests | 332 |
+| cUnitTypePriest | 141 |
+| cUnitTypeBaboonOfSet | 117 |
+| cUnitTypeCitadelCenter | 357 |
 
 ## Norse
 
