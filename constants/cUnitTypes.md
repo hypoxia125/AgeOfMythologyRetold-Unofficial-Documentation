@@ -141,35 +141,35 @@
 ## Misc
 
 | cUnitType | Value |
-| -- | -- |
-| cUnitTypeAttackRevealer |  |
-| cUnitTypeRevealer |  |
-| cUnitTypeWaypointFlag |  |
-| cUnitTypeGatherFlagEconomy |  |
-| cUnitTypeGatherFlagEconomyNaval |  |
-| cUnitTypeGatherFlagMilitary |  |
-| cUnitTypeGatherFlagMilitaryNaval |  |
-| cUnitTypeMoveTo |  |
-| cUnitTypeGarrisonFlag |  |
-| cUnitTypeMapObjective |  |
-| cUnitTypeTownCenter |  |
-| cUnitTypeFarm |  |
-| cUnitTypeWallGate |  |
-| cUnitTypeWallOfTroyGate |  |
-| cUnitTypeWallConnector |  |
-| cUnitTypeWallShort |  |
-| cUnitTypeWallMedium |  |
-| cUnitTypeWallLong |  |
-| cUnitTypeVFXStun |  |
-| cUnitTypeIceBlock |  |
-| cUnitTypeIceBlockLarge |  |
-| cUnitTypePlentyVaultKOTH |  |
-| cUnitTypeRegent |  |
-| cUnitTypeVFXUnPetrify |  |
-| cUnitTypeVFXLinearShockwave |  |
-| cUnitTypeVFXSnow |  |
-| cUnitTypeUnitRevealer |  |
-| cUnitTypeRelic |  |
-| cUnitTypeSkydome |  |
-| cUnitTypeWonder |  |
-| cUnitTypeTitanGate |  |
+| -- | --: |
+| cUnitTypeAttackRevealer | 866 |
+| cUnitTypeRevealer | 867 |
+| cUnitTypeWaypointFlag | 43 |
+| cUnitTypeGatherFlagEconomy | 46 |
+| cUnitTypeGatherFlagEconomyNaval | 48 |
+| cUnitTypeGatherFlagMilitary | 47 |
+| cUnitTypeGatherFlagMilitaryNaval | 49 |
+| cUnitTypeMoveTo | 50 |
+| cUnitTypeGarrisonFlag | 45 |
+| cUnitTypeMapObjective | 879 |
+| cUnitTypeTownCenter | 305 |
+| cUnitTypeFarm | 314 |
+| cUnitTypeWallGate | 312 |
+| cUnitTypeWallOfTroyGate | 441 |
+| cUnitTypeWallConnector | 311 |
+| cUnitTypeWallShort | 308 |
+| cUnitTypeWallMedium | 309 |
+| cUnitTypeWallLong | 310 |
+| cUnitTypeVFXStun | 826 |
+| cUnitTypeIceBlock | 243 |
+| cUnitTypeIceBlockLarge | 244 |
+| cUnitTypePlentyVaultKOTH | 356 |
+| cUnitTypeRegent | 853 |
+| cUnitTypeVFXUnPetrify | 811 |
+| cUnitTypeVFXLinearShockwave | 802 |
+| cUnitTypeVFXSnow | 813 |
+| cUnitTypeUnitRevealer | 870 |
+| cUnitTypeRelic | 598 |
+| cUnitTypeSkydome | 883 |
+| cUnitTypeWonder | 322 |
+| cUnitTypeTitanGate | 321 |
