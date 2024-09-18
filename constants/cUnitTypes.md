@@ -119,23 +119,23 @@
 ## Atlantean
 
 | cUnitType | Value |
-| -- | -- |
-| cUnitTypeVillagerAtlantean |  |
-| cUnitTypeFishingShipAtlantean |  |
-| cUnitTypeTransportShipAtlantean |  |
-| cUnitTypeCaravanAtlantean |  |
-| cUnitTypeOracle |  |
-| cUnitTypePalace |  |
-| cUnitTypeManor |  |
-| cUnitTypeTitanAtlantean |  |
-| cUnitTypeBireme |  |
-| cUnitTypeFireShip |  |
-| cUnitTypeSiegeBireme |  |
-| cUnitTypeArgus |  |
-| cUnitTypeCentimanus |  |
-| cUnitTypeBehemoth |  |
-| cUnitTypeStymphalianBird |  |
-| cUnitTypeTreeGaia |  |
+| -- | --: |
+| cUnitTypeVillagerAtlantean | 248 |
+| cUnitTypeFishingShipAtlantean | 290 |
+| cUnitTypeTransportShipAtlantean | 291 |
+| cUnitTypeCaravanAtlantean | 250 |
+| cUnitTypeOracle | 251 |
+| cUnitTypePalace | 350 |
+| cUnitTypeManor | 345 |
+| cUnitTypeTitanAtlantean | 289 |
+| cUnitTypeBireme | 292 |
+| cUnitTypeFireShip | 293 |
+| cUnitTypeSiegeBireme | 294 |
+| cUnitTypeArgus | 288 |
+| cUnitTypeCentimanus | 286 |
+| cUnitTypeBehemoth | 280 |
+| cUnitTypeStymphalianBird | 283 |
+| cUnitTypeTreeGaia | 563 |
 
 
 ## Misc
