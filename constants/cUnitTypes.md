@@ -86,34 +86,34 @@
 ## Norse
 
 | cUnitType | Value |
-| -- | -- |
-| cUnitTypeVillagerNorse |  |
-| cUnitTypeVillagerDwarf |  |
-| cUnitTypeFishingShipNorse |  |
-| cUnitTypeTransportShipNorse |  |
-| cUnitTypeCaravanNorse |  |
-| cUnitTypeHillFort |  |
-| cUnitTypeTitanYmir |  |
-| cUnitTypeLongboat |  |
-| cUnitTypeDreki |  |
-| cUnitTypeDragonShip |  |
-| cUnitTypeValkyrie |  |
-| cUnitTypeTroll |  |
-| cUnitTypeEinheri |  |
-| cUnitTypeDraugr |  |
-| cUnitTypeBattleBoar |  |
-| cUnitTypeFrostGiant |  |
-| cUnitTypeMountainGiant |  |
-| cUnitTypeRockGiant |  |
-| cUnitTypeFenrisWolfBrood |  |
-| cUnitTypeFafnir |  |
-| cUnitTypeBerserk |  |
-| cUnitTypeThrowingAxeman |  |
-| cUnitTypeHirdman |  |
-| cUnitTypeGodi |  |
-| cUnitTypeRaidingCavalry |  |
-| cUnitTypeHersir |  |
-| cUnitTypeKraken |  |
+| -- | --: |
+| cUnitTypeVillagerNorse | 175 |
+| cUnitTypeVillagerDwarf | 176 |
+| cUnitTypeFishingShipNorse | 233 |
+| cUnitTypeTransportShipNorse | 234 |
+| cUnitTypeCaravanNorse | 179 |
+| cUnitTypeHillFort | 344 |
+| cUnitTypeTitanYmir | 230 |
+| cUnitTypeLongboat | 235 |
+| cUnitTypeDreki | 236 |
+| cUnitTypeDragonShip | 237 |
+| cUnitTypeValkyrie | 200 |
+| cUnitTypeTroll | 198 |
+| cUnitTypeEinheri | 199 |
+| cUnitTypeDraugr | 201 |
+| cUnitTypeBattleBoar | 202 |
+| cUnitTypeFrostGiant | 223 |
+| cUnitTypeMountainGiant | 203 |
+| cUnitTypeRockGiant | 222 |
+| cUnitTypeFenrisWolfBrood | 226 |
+| cUnitTypeFafnir | 227 |
+| cUnitTypeBerserk | 180 |
+| cUnitTypeThrowingAxeman | 181 |
+| cUnitTypeHirdman | 183 |
+| cUnitTypeGodi | 189 |
+| cUnitTypeRaidingCavalry | 182 |
+| cUnitTypeHersir | 188 |
+| cUnitTypeKraken | 221 |
 
 
 ## Atlantean
