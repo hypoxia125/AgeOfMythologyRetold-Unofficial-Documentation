@@ -4,47 +4,47 @@
 
 | cUnitType | Value |
 | -- | -- |
-| cUnitTypeVillagerGreek |  |
-| cUnitTypeFishingShipGreek |  |
-| cUnitTypeTransportShipGreek |  |
-| cUnitTypeCaravanGreek |  |
-| cUnitTypeKataskopos |  |
-| cUnitTypeHippocampus |  |
-| cUnitTypeFortress |  |
-| cUnitTypeHouse |  |
-| cUnitTypeTitanCerberus |  |
-| cUnitTypeTrireme |  |
-| cUnitTypePentekonter |  |
-| cUnitTypeJuggernaut |  |
-| cUnitTypeMinotaur |  |
-| cUnitTypeCentaur |  |
-| cUnitTypeCyclops |  |
-| cUnitTypeManticore |  |
-| cUnitTypeHydra |  |
-| cUnitTypeNemeanLion |  |
-| cUnitTypeColossus |  |
-| cUnitTypeMedusa |  |
-| cUnitTypeChimera |  |
-| cUnitTypeJason |  |
-| cUnitTypeHeracles |  |
-| cUnitTypeAjax |  |
-| cUnitTypeAchilles |  |
-| cUnitTypeTheseus |  |
-| cUnitTypeAtalanta |  |
-| cUnitTypeHoplite |  |
-| cUnitTypeHypaspist |  |
-| cUnitTypeToxotes |  |
-| cUnitTypePeltast |  |
-| cUnitTypeHippeus |  |
-| cUnitTypeProdromos |  |
-| cUnitTypePetrobolos |  |
-| cUnitTypeHelepolis |  |
-| cUnitTypeOdysseus |  |
-| cUnitTypeChiron |  |
-| cUnitTypeHippolyta |  |
-| cUnitTypeBellerophon |  |
-| cUnitTypePerseus |  |
-| cUnitTypePolyphemus |  |
+| cUnitTypeVillagerGreek | 51 |
+| cUnitTypeFishingShipGreek | 96 |
+| cUnitTypeTransportShipGreek | 97 |
+| cUnitTypeCaravanGreek | 52 |
+| cUnitTypeKataskopos | 53 |
+| cUnitTypeHippocampus | 82 |
+| cUnitTypeFortress | 328 |
+| cUnitTypeHouse | 313 |
+| cUnitTypeTitanCerberus | 95 |
+| cUnitTypeTrireme | 98 |
+| cUnitTypePentekonter | 99 |
+| cUnitTypeJuggernaut | 100 |
+| cUnitTypeMinotaur | 84 |
+| cUnitTypeCentaur | 85 |
+| cUnitTypeCyclops | 86 |
+| cUnitTypeManticore | 89 |
+| cUnitTypeHydra | 87 |
+| cUnitTypeNemeanLion | 90 |
+| cUnitTypeColossus | 91 |
+| cUnitTypeMedusa | 93 |
+| cUnitTypeChimera | 92 |
+| cUnitTypeJason | 66 |
+| cUnitTypeHeracles | 69 |
+| cUnitTypeAjax | 67 |
+| cUnitTypeAchilles | 70 |
+| cUnitTypeTheseus | 68 |
+| cUnitTypeAtalanta | 71 |
+| cUnitTypeHoplite | 55 |
+| cUnitTypeHypaspist | 58 |
+| cUnitTypeToxotes | 56 |
+| cUnitTypePeltast | 60 |
+| cUnitTypeHippeus | 57 |
+| cUnitTypeProdromos | 59 |
+| cUnitTypePetrobolos | 64 |
+| cUnitTypeHelepolis | 65 |
+| cUnitTypeOdysseus | 72 |
+| cUnitTypeChiron | 73 |
+| cUnitTypeHippolyta | 74 |
+| cUnitTypeBellerophon | 75 |
+| cUnitTypePerseus | 76 |
+| cUnitTypePolyphemus | 77 |
 
 ## Egyptian
 
