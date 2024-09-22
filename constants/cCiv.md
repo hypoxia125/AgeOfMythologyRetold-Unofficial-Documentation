@@ -1,7 +1,7 @@
 # Civilization Constants
 
 | Constant Name | Value |
-|---------------|-------|
+|---------------|-------:|
 | cCivNature    | 0     |
 | cCivZeus      | 1     |
 | cCivHades     | 2     |
