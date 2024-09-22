@@ -1,7 +1,7 @@
 # cUnitType Documentation
 
 | Constant Name                              | Value |
-|--------------------------------------------|-------|
+|--------------------------------------------|-------:|
 | cNumberProtoUnits                          | 889   |
 | cNumberUnitTypes                           | 1080  |
 | cUnitTypeAbstractArmory                    | 1056  |
