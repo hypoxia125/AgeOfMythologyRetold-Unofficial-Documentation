@@ -1,4 +1,4 @@
-# cUnitType Documentation
+# Unit Type Constants
 
 | Constant Name                              | Value |
 |--------------------------------------------|-------:|
